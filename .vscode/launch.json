@@ -1,0 +1,36 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Next.js: debug server-side",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run dev"
+    },
+    {
+      "name": "Next.js: debug full stack",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run dev",
+      "serverReadyAction": {
+        "pattern": "Next.js server ready on .*:(\\d+)",
+        "uriFormat": "http://127.0.0.1:%s",
+        "action": "debugWithChrome"
+      }
+    },
+    {
+      "name": "Launch Flask App (legacy)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/run.py",
+      "env": {
+        "FLASK_APP": "app",
+        "FLASK_ENV": "development",
+        "DATABASE_URL": "sqlite:///database.db"
+      },
+      "args": [],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+  ]
+}
