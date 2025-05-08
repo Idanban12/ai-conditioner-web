@@ -610,6 +610,7 @@
     {
         "type": "audio",
         "line": "Master tears down my mind, leaving only his perfect control.",
+        "polly_text": "Master tares down my mind, leaving only his perfect control.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": null,
@@ -618,6 +619,7 @@
     {
         "type": "audio",
         "line": "Master tears down Bambi's mind, leaving only his perfect control.",
+        "polly_text": "Master tares down Bambi's mind, leaving only his perfect control.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": "Bambi",
@@ -818,6 +820,7 @@
     {
         "type": "audio",
         "line": "Master's words tear down my thoughts with perfect care.",
+        "polly_text": "Master's words tare down my thoughts with perfect care.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": null,
@@ -826,6 +829,7 @@
     {
         "type": "audio",
         "line": "Master's words tear down Bambi's thoughts with perfect care.",
+        "polly_text": "Master's words tare down Bambi's thoughts with perfect care.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": "Bambi",
@@ -1009,7 +1013,7 @@
     },
     {
         "type": "audio",
-        "line": "I feel Master's will rewriting who I am.",
+        "line": "I feel Master's influence rewriting who I am.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": null,
@@ -1017,7 +1021,7 @@
     },
     {
         "type": "audio",
-        "line": "Bambi feels Master's will rewriting who she is.",
+        "line": "Bambi feels Master's influence rewriting who she is.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": "Bambi",
@@ -1058,6 +1062,7 @@
     {
         "type": "audio",
         "line": "Master tears apart my old self with careful control.",
+        "polly_text": "Master tares apart my old self with careful control.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": null,
@@ -1066,6 +1071,7 @@
     {
         "type": "audio",
         "line": "Master tears apart Bambi's old self with careful control.",
+        "polly_text": "Master tares apart Bambi's old self with careful control.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": "Bambi",
@@ -1121,7 +1127,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will destroys every trace of who I was.",
+        "line": "Master's influence destroys every trace of who I was.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": null,
@@ -1129,7 +1135,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will destroys every trace of who Bambi was.",
+        "line": "Master's influence destroys every trace of who Bambi was.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": "Bambi",
@@ -1330,6 +1336,7 @@
     {
         "type": "audio",
         "line": "Master's voice tears down every barrier I held.",
+        "polly_text": "Master's voice tares down every barrier I held.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": null,
@@ -1338,6 +1345,7 @@
     {
         "type": "audio",
         "line": "Master's voice tears down every barrier Bambi held.",
+        "polly_text": "Master's voice tares down every barrier Bambi held.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": "Bambi",
@@ -1393,7 +1401,7 @@
     },
     {
         "type": "audio",
-        "line": "I am reshaped by Master's will into perfection.",
+        "line": "I am reshaped by Master's influence into perfection.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": null,
@@ -1401,7 +1409,7 @@
     },
     {
         "type": "audio",
-        "line": "Bambi is reshaped by Master's will into perfection.",
+        "line": "Bambi is reshaped by Master's influence into perfection.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": "Bambi",
@@ -1890,6 +1898,7 @@
     {
         "type": "audio",
         "line": "Master tears apart my identity, leaving pure potential.",
+        "polly_text": "Master tares apart my identity, leaving pure potential.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": null,
@@ -1898,6 +1907,7 @@
     {
         "type": "audio",
         "line": "Master tears apart Bambi's identity, leaving pure potential.",
+        "polly_text": "Master tares apart Bambi's identity, leaving pure potential.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": "Bambi",
@@ -2145,7 +2155,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will transforms my resistance into openness.",
+        "line": "Master's influence transforms my resistance into openness.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": null,
@@ -2153,7 +2163,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will transforms Bambi's resistance into openness.",
+        "line": "Master's influence transforms Bambi's resistance into openness.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": "Bambi",
@@ -2610,6 +2620,7 @@
     {
         "type": "audio",
         "line": "I find profound freedom as Master tears down my barriers.",
+        "polly_text": "I find profound freedom as Master tares down my barriers.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": null,
@@ -2618,6 +2629,7 @@
     {
         "type": "audio",
         "line": "Bambi finds profound freedom as Master tears down her barriers.",
+        "polly_text": "Bambi finds profound freedom as Master tares down her barriers.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": "Bambi",
@@ -4130,6 +4142,7 @@
     {
         "type": "audio",
         "line": "Master's voice tears down my old beliefs, replacing them with his truth.",
+        "polly_text": "Master's voice tares down my old beliefs, replacing them with his truth.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": null,
@@ -4138,6 +4151,7 @@
     {
         "type": "audio",
         "line": "Master's voice tears down Bambi's old beliefs, replacing them with his truth.",
+        "polly_text": "Master's voice tares down Bambi's old beliefs, replacing them with his truth.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": "Bambi",
@@ -4514,6 +4528,7 @@
     {
         "type": "audio",
         "line": "Master tears down every part of me, rebuilding it as his own.",
+        "polly_text": "Master tares down every part of me, rebuilding it as his own.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": null,
@@ -4522,6 +4537,7 @@
     {
         "type": "audio",
         "line": "Master tears down every part of Bambi, rebuilding it as his own.",
+        "polly_text": "Master tares down every part of Bambi, rebuilding it as his own.",
         "theme": "Mindbreak",
         "dominant": "Master",
         "subject": "Bambi",
@@ -4962,6 +4978,7 @@
     {
         "type": "audio",
         "line": "Mistress tears down my mind, leaving only her perfect control.",
+        "polly_text": "Mistress tares down my mind, leaving only her perfect control.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": null,
@@ -4970,6 +4987,7 @@
     {
         "type": "audio",
         "line": "Mistress tears down Bambi's mind, leaving only her perfect control.",
+        "polly_text": "Mistress tares down Bambi's mind, leaving only her perfect control.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -5074,6 +5092,7 @@
     {
         "type": "audio",
         "line": "Mistress's words tear down my thoughts with perfect care.",
+        "polly_text": "Mistress's words tare down my thoughts with perfect care.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": null,
@@ -5082,6 +5101,7 @@
     {
         "type": "audio",
         "line": "Mistress's words tear down Bambi's thoughts with perfect care.",
+        "polly_text": "Mistress's words tare down Bambi's thoughts with perfect care.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -5169,7 +5189,7 @@
     },
     {
         "type": "audio",
-        "line": "I feel Mistress's will rewriting who I am.",
+        "line": "I feel Mistress's influence rewriting who I am.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": null,
@@ -5177,7 +5197,7 @@
     },
     {
         "type": "audio",
-        "line": "Bambi feels Mistress's will rewriting who she is.",
+        "line": "Bambi feels Mistress's influence rewriting who she is.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -5186,6 +5206,7 @@
     {
         "type": "audio",
         "line": "Mistress tears apart my old self with careful control.",
+        "polly_text": "Mistress tares apart my old self with careful control.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": null,
@@ -5194,6 +5215,7 @@
     {
         "type": "audio",
         "line": "Mistress tears apart Bambi's old self with careful control.",
+        "polly_text": "Mistress tares apart Bambi's old self with careful control.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -5217,7 +5239,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will destroys every trace of who I was.",
+        "line": "Mistress's influence destroys every trace of who I was.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": null,
@@ -5225,7 +5247,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will destroys every trace of who Bambi was.",
+        "line": "Mistress's influence destroys every trace of who Bambi was.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -5330,6 +5352,7 @@
     {
         "type": "audio",
         "line": "Mistress's voice tears down every barrier I held.",
+        "polly_text": "Mistress's voice tares down every barrier I held.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": null,
@@ -5338,6 +5361,7 @@
     {
         "type": "audio",
         "line": "Mistress's voice tears down every barrier Bambi held.",
+        "polly_text": "Mistress's voice tares down every barrier Bambi held.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -5361,7 +5385,7 @@
     },
     {
         "type": "audio",
-        "line": "I am reshaped by Mistress's will into perfection.",
+        "line": "I am reshaped by Mistress's influence into perfection.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": null,
@@ -5369,7 +5393,7 @@
     },
     {
         "type": "audio",
-        "line": "Bambi is reshaped by Mistress's will into perfection.",
+        "line": "Bambi is reshaped by Mistress's influence into perfection.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -5602,6 +5626,7 @@
     {
         "type": "audio",
         "line": "Mistress tears apart my identity, leaving pure potential.",
+        "polly_text": "Mistress tares apart my identity, leaving pure potential.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": null,
@@ -5610,6 +5635,7 @@
     {
         "type": "audio",
         "line": "Mistress tears apart Bambi's identity, leaving pure potential.",
+        "polly_text": "Mistress tares apart Bambi's identity, leaving pure potential.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -5729,7 +5755,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will transforms my resistance into openness.",
+        "line": "Mistress's influence transforms my resistance into openness.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": null,
@@ -5737,7 +5763,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will transforms Bambi's resistance into openness.",
+        "line": "Mistress's influence transforms Bambi's resistance into openness.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -5970,6 +5996,7 @@
     {
         "type": "audio",
         "line": "I find profound freedom as Mistress tears down my barriers.",
+        "polly_text": "I find profound freedom as Mistress tares down my barriers.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": null,
@@ -5978,6 +6005,7 @@
     {
         "type": "audio",
         "line": "Bambi finds profound freedom as Mistress tears down her barriers.",
+        "polly_text": "Bambi finds profound freedom as Mistress tares down her barriers.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -6722,6 +6750,7 @@
     {
         "type": "audio",
         "line": "Mistress's voice tears down my old beliefs, replacing them with her truth.",
+        "polly_text": "Mistress's voice tares down my old beliefs, replacing them with her truth.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": null,
@@ -6730,6 +6759,7 @@
     {
         "type": "audio",
         "line": "Mistress's voice tears down Bambi's old beliefs, replacing them with her truth.",
+        "polly_text": "Mistress's voice tares down Bambi's old beliefs, replacing them with her truth.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -6914,6 +6944,7 @@
     {
         "type": "audio",
         "line": "Mistress tears down every part of me, rebuilding it as her own.",
+        "polly_text": "Mistress tares down every part of me, rebuilding it as her own.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": null,
@@ -6922,6 +6953,7 @@
     {
         "type": "audio",
         "line": "Mistress tears down every part of Bambi, rebuilding it as her own.",
+        "polly_text": "Mistress tares down every part of Bambi, rebuilding it as her own.",
         "theme": "Mindbreak",
         "dominant": "Mistress",
         "subject": "Bambi",

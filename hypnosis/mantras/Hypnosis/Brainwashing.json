@@ -785,7 +785,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will obliterates all resistance within me.",
+        "line": "Master's influence obliterates all resistance within me.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": null,
@@ -793,7 +793,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will obliterates all resistance within Bambi.",
+        "line": "Master's influence obliterates all resistance within Bambi.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": "Bambi",
@@ -1362,6 +1362,7 @@
     {
         "type": "audio",
         "line": "Master tears away the remnants of my resistance.",
+        "polly_text": "Master tares away the remnants of my resistance.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": null,
@@ -1370,6 +1371,7 @@
     {
         "type": "audio",
         "line": "Master tears away the remnants of Bambi's resistance.",
+        "polly_text": "Master tares away the remnants of Bambi's resistance.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": "Bambi",
@@ -1553,7 +1555,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will reshapes every fiber of my being.",
+        "line": "Master's influence reshapes every fiber of my being.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": null,
@@ -1561,7 +1563,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will reshapes every fiber of Bambi's being.",
+        "line": "Master's influence reshapes every fiber of Bambi's being.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": "Bambi",
@@ -1809,7 +1811,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will clears away the old, making way for the new.",
+        "line": "Master's influence clears away the old, making way for the new.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": null,
@@ -1817,7 +1819,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will clears away the old, making way for the new in Bambi.",
+        "line": "Master's influence clears away the old, making way for the new in Bambi.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": "Bambi",
@@ -2161,7 +2163,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will carves a path through my resistance.",
+        "line": "Master's influence carves a path through my resistance.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": null,
@@ -2169,7 +2171,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will carves a path through Bambi's resistance.",
+        "line": "Master's influence carves a path through Bambi's resistance.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": "Bambi",
@@ -2641,7 +2643,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will clears the path for my transformation.",
+        "line": "Master's influence clears the path for my transformation.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": null,
@@ -2649,7 +2651,7 @@
     },
     {
         "type": "audio",
-        "line": "Master's will clears the path for Bambi's transformation.",
+        "line": "Master's influence clears the path for Bambi's transformation.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": "Bambi",
@@ -3026,6 +3028,7 @@
     {
         "type": "audio",
         "line": "Master's dominance tears away every piece of my resistance.",
+        "polly_text": "Master's dominance tares away every piece of my resistance.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": null,
@@ -3034,6 +3037,7 @@
     {
         "type": "audio",
         "line": "Master's dominance tears away every piece of Bambi's resistance.",
+        "polly_text": "Master's dominance tares away every piece of Bambi's resistance.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": "Bambi",
@@ -3794,6 +3798,7 @@
     {
         "type": "audio",
         "line": "Master's dominance tears apart my reality, leaving only truth.",
+        "polly_text": "Master's dominance tares apart my reality, leaving only truth.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": null,
@@ -3802,6 +3807,7 @@
     {
         "type": "audio",
         "line": "Master's dominance tears apart Bambi's reality, leaving only truth.",
+        "polly_text": "Master's dominance tares apart Bambi's reality, leaving only truth.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": "Bambi",
@@ -3986,6 +3992,7 @@
     {
         "type": "audio",
         "line": "Master tears down the walls of my mind, creating a new foundation.",
+        "polly_text": "Master tares down the walls of my mind, creating a new foundation.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": null,
@@ -3994,6 +4001,7 @@
     {
         "type": "audio",
         "line": "Master tears down the walls of Bambi's mind, creating a new foundation.",
+        "polly_text": "Master tares down the walls of Bambi's mind, creating a new foundation.",
         "theme": "Brainwashing",
         "dominant": "Master",
         "subject": "Bambi",
@@ -5185,7 +5193,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will obliterates all resistance within me.",
+        "line": "Mistress's influence obliterates all resistance within me.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": null,
@@ -5193,7 +5201,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will obliterates all resistance within Bambi.",
+        "line": "Mistress's influence obliterates all resistance within Bambi.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -5474,6 +5482,7 @@
     {
         "type": "audio",
         "line": "Mistress tears away the remnants of my resistance.",
+        "polly_text": "Mistress tares away the remnants of my resistance.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": null,
@@ -5482,6 +5491,7 @@
     {
         "type": "audio",
         "line": "Mistress tears away the remnants of Bambi's resistance.",
+        "polly_text": "Mistress tares away the remnants of Bambi's resistance.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -5569,7 +5579,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will reshapes every fiber of my being.",
+        "line": "Mistress's influence reshapes every fiber of my being.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": null,
@@ -5577,7 +5587,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will reshapes every fiber of Bambi's being.",
+        "line": "Mistress's influence reshapes every fiber of Bambi's being.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -5697,7 +5707,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will clears away the old, making way for the new.",
+        "line": "Mistress's influence clears away the old, making way for the new.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": null,
@@ -5705,7 +5715,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will clears away the old, making way for the new in Bambi.",
+        "line": "Mistress's influence clears away the old, making way for the new in Bambi.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -5873,7 +5883,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will carves a path through my resistance.",
+        "line": "Mistress's influence carves a path through my resistance.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": null,
@@ -5881,7 +5891,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will carves a path through Bambi's resistance.",
+        "line": "Mistress's influence carves a path through Bambi's resistance.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -6113,7 +6123,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will clears the path for my transformation.",
+        "line": "Mistress's influence clears the path for my transformation.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": null,
@@ -6121,7 +6131,7 @@
     },
     {
         "type": "audio",
-        "line": "Mistress's will clears the path for Bambi's transformation.",
+        "line": "Mistress's influence clears the path for Bambi's transformation.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -6306,6 +6316,7 @@
     {
         "type": "audio",
         "line": "Mistress's dominance tears away every piece of my resistance.",
+        "polly_text": "Mistress's dominance tares away every piece of my resistance.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": null,
@@ -6314,6 +6325,7 @@
     {
         "type": "audio",
         "line": "Mistress's dominance tears away every piece of Bambi's resistance.",
+        "polly_text": "Mistress's dominance tares away every piece of Bambi's resistance.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -6690,6 +6702,7 @@
     {
         "type": "audio",
         "line": "Mistress's dominance tears apart my reality, leaving only truth.",
+        "polly_text": "Mistress's dominance tares apart my reality, leaving only truth.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": null,
@@ -6698,6 +6711,7 @@
     {
         "type": "audio",
         "line": "Mistress's dominance tears apart Bambi's reality, leaving only truth.",
+        "polly_text": "Mistress's dominance tares apart Bambi's reality, leaving only truth.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": "Bambi",
@@ -6786,6 +6800,7 @@
     {
         "type": "audio",
         "line": "Mistress tears down the walls of my mind, creating a new foundation.",
+        "polly_text": "Mistress tares down the walls of my mind, creating a new foundation.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": null,
@@ -6794,6 +6809,7 @@
     {
         "type": "audio",
         "line": "Mistress tears down the walls of Bambi's mind, creating a new foundation.",
+        "polly_text": "Mistress tares down the walls of Bambi's mind, creating a new foundation.",
         "theme": "Brainwashing",
         "dominant": "Mistress",
         "subject": "Bambi",
