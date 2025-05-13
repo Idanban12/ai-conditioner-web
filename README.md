@@ -1,7 +1,7 @@
 
 # Hypnosis Content Generation Application
 
-This project is a Python-based application designed to generate hypnosis content for use in various interfaces. It dynamically produces personalized hypnosis sessions, incorporating themes, text, images, audio, and user preferences. This document provides an overview of the project setup, usage, and development process.
+This project is an application designed to generate hypnosis content for use in various interfaces. It dynamically produces personalized hypnosis sessions, incorporating themes, text, images, audio, and user preferences. This document provides an overview of the project setup, usage, and development process.
 
 ## Overview
 
